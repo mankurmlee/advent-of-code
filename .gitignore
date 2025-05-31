@@ -1,0 +1,6 @@
+.vscode/
+.vs/
+.zig-cache/
+bin/
+target/
+*.exe
